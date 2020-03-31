@@ -5,7 +5,7 @@ import org.quartz.*;
 import org.quartz.impl.StdSchedulerFactory;
 
 import java.text.ParseException;
-//666
+
 public class TestQuartz {
     public static void main(String[] args) throws ParseException {
         //产生实际使用的job
