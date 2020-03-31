@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/c3p0-0.9.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/quartz-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/quartz-jobs-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/slf4j-log4j12-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
